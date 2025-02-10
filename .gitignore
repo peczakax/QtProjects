@@ -1,9 +1,9 @@
 # CMake generated files
+build*/
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 Makefile
-build*/
 *.cbp
 *.ninja
 *.sln
