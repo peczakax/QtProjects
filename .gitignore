@@ -1,0 +1,26 @@
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build*/
+*.cbp
+*.ninja
+*.sln
+*.vcxproj*
+*.user
+*.opensdf
+*.dir/
+*.o
+*.obj
+*.pdb
+*.ilk
+*.log
+*.pch
+*.d
+*.idb
+*.tlog/
+*.lastbuildstate
+*.depend
+*.CMakeLists.txt.user
+*.DS_Store
